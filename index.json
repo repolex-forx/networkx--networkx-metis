@@ -1,0 +1,11 @@
+{
+  "org": "networkx",
+  "repo": "networkx-metis",
+  "versions": [
+    {
+      "commit": "26a51ddad5932d843655e5b7ba1225bcfe3b8882",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:07:51.120840+00:00"
+    }
+  ]
+}
